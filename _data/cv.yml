@@ -1,10 +1,10 @@
 cv:
   name: Hyemin Yang
-  label: AI Researcher
+  # label: AI Researcher
   email: hyemin0806@kaist.ac.kr
   location: Daejeon, Korea
   image: ""
-  summary: AI researcher grounded in first principles, with a focus on real-world applicability.
+  # summary: AI researcher grounded in first principles, with a focus on real-world applicability.
 
   social_networks:
     - network: GitHub
@@ -37,14 +37,14 @@ cv:
 
     Experience:
       - Lab: KAIST Visual Intelligence Lab
-        position: M.S. Student (formerly Summer Intern)
+        position: M.S. Student
         location: Daejeon, Korea
         url: https://vi.kaist.ac.kr/
         start_date: 2024-07
         end_date: present
         highlights:
           - "Research on E2E-AD robustness and VLA efficiency (VR-Drive, HEAT, etc.)"
-          - "Conducted research on weakly supervised instance segmentation"
+          # - "Conducted research on weakly supervised instance segmentation"
 
       - Lab: DGIST Computer Vision Lab
         position: Undergraduate Research Assistant
