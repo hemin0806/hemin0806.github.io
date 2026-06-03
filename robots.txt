@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hemin0806.github.io/hyemin_yang.github.io/sitemap.xml
+Sitemap: https://hemin0806.github.io/sitemap.xml
