@@ -6,7 +6,7 @@ subtitle: <a href="https://vilab.kaist.ac.kr">Visual Intelligence Lab</a>, KAIST
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hm_image.png
   image_circular: false
   more_info: >
     <p>KAIST, Daejeon, Korea</p>
